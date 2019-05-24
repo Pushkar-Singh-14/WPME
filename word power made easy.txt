@@ -342,4 +342,59 @@
 215 french-mal latin-malus bad,evil
 216 maladroit less skilful. (bad right hand) french-mal latin-malus bad,evil, root-adroit right hand
 216 malaise bad ease, disease, lack of ease. french-mal latin-malus bad,evil
+221 root-bonus/bene good
+221 benign or benignant, kindly, good natured, ex: benign neglect, a benign judge, opp: malign. root-bonus/bene good
+221 benediction good saying, opp: malediction, curse, root-bonus/bene good, root-dico/dictus to say or tell
+221 benefactor one who do good, root-bonus/bene good, root-dico/dictus to say or tell
+221 benefactress girl who do good, root-bonus/bene good, root-dico/dictus to say or tell
+221 beneficiary one who is getting the benefit , root-bonus/bene good,, root-facio/factus to do or make
+222 latin-fide faith as in bona fide or fidelity.
+222 bona fide in good faith. root-bonus/bene good, latin-fide faith as in bona fide, 
+222 fidelity faithfulness latin-fide faith as in bona fide,
+222 infidelity unfaithfulness, especially to the marriage vows,
+222 addiction saying to or toward, the compulsion to say 'yes' to a habit. root-dico/dictus to say or tell
+222 factory a place where things are made, root-facio/factus to do or make, suffix-ory place where 
+222 suffix-ory place where as in factory a place where things are made, root-facio/factus to do or make
+222 artificial thing made by the art of human or not natural, root-facio/factus to do or make,
+222 voluntary volunteer, act by own wish root-volo to wish, 
+223 placate to please, soothe or pacify, root-plac please
+223 root-plac please as in placate to please,
+223 implacable which can not be pleased .
+223 placid if you are placid the you are calm, easy going, undisturbed, you are pleased with the things as they are. root-plac please 
+223 complacent you are pleased with yourself, your position, or narrow accomplishment
+224 condone is to forgive, overlook, pardon, root-dono to give
+224 root-dono to give as in donate or donation.
+240 clamorous a loud noise of people shouting ; vociferous 
+240 vehement showing strong force, passionate or intense ; vociferous ex: her voice was low but vehement
+241 brevity concise and exact use of words in writing or in speech, ; laconic. ex: the staff will edit manuscripts with a view to brevity and clarity
+245 taciturn one to remain silent, dont want to indulge is conversation. latin-taceo to silent
+245 latin-taceo to silent
+246 tacit silent, a tacit reply, acceptance, denying, agreement etc
+246 reticent one who prefer to keep silent.
+246 loquacious person who talk talk and talk, you wish that they would take a break to breath once so that you can have your turn. latin-loquor to speak
+246 latin-loquor to speak as in loquacious, person who talk talk and talk
+247 soliloquy talking to ourselve in mind silently. verb: soliloquize, latin-loquor to speak
+247 ventriloquist one who throw the voice. listener think that the voice is coming from other source than the person speaking. 'speaking from the belly' , latin-ventri belly, latin-loquor to speak,
+247 latin-ventri belly, as in ventriloquist speaking from the belly
+247 colloquial informal conversation, in which grammer is incorrect but sentece is acceptable. daily conversation. latin-loquor to speak
+247 circumlocution a talking around, any way of expressing an idea that is roundabout or indirect is circumlocutory.
+252 root-laconia sparta, noted for their economy of speech, if we capture you city, laconic
+252 laconic economical use of words till the point of curtness, precisely.
+252 pithy expressing an idea cleverly in few words; laconic
+252 stoical stoikal, determined not to complain or show feeling especially when something bad happens to you.
+253 cogent latin-congo, compel, a cogent argument compels acceptance because of its logic, its persuasiveness and its appeal to one's sense of reason.
+253 eloquent speaks out (e-, ex- out), latin-loquor to speak, speaks out vividly, expressive fluent.
+253 magniloquent/grandiloquent use of high-flown. grandiose, even pompous language. flowery or overelegant phraseology. (magnus,large), (grandis, grand), latin-loquor to speak
+254 verbose latin-verbum words, use of excessive words to express an idea and this led to dullness
+254 voluble latin-volvo to roll, words rolling smoothly through a voluble speaker's tongue.
+254 garrulous latin-garrio, to chatter, a garrulous old man, chattering like a monkey
+254 latin-verbum words, as in verbose
+254 latin-volvo to roll as in voluble
+254 latin-garrio to chatter as in garrulous
+254 magnanimous big hearted, generous, forgiving. great minded root-animus mind
+254 magnate a person of great power and influence, as a business magnate.
+254 magnify to make larger
+255 magnum a large bottle
+255 magnum-opus latin-opus work, a big work, masterpiece of an artist, writer or composer.
+255 verbiage has 2 meaning, 1. an excess of words, 2. style or manner of using words. 
 
