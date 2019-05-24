@@ -46,10 +46,11 @@ for key,value in Data.items():
 
 num_list=[]
 last_100=len(Word)-100
+last_50=len(Word)-50
 for i in range(last_100,len(Word)):
     num_list.append(i)
     c=len(num_list)
-for i in range(10000):
+for i in range(c):
     try:
         x=random.randint(0,len(num_list))
         y=num_list[x]
@@ -74,8 +75,13 @@ for i in range(10000):
             f_report.write(("{}\n".format(j)))
             f_report.close()
             break
+        
+            
     except:
         pass
+f_report=open(path_report,"a+")
+f_report.write(("{}\n".format(j)))
+f_report.close()
 Data1=[]    
 f_report=open(path_report,"r")    
 for name in f_report.readlines():
