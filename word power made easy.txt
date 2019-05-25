@@ -397,4 +397,23 @@
 255 magnum a large bottle
 255 magnum-opus latin-opus work, a big work, masterpiece of an artist, writer or composer.
 255 verbiage has 2 meaning, 1. an excess of words, 2. style or manner of using words. 
-
+262 ventral-side front side of an animal, anterior side- the belly side, latin-ventri belly,
+262 ventrile,auricle chamber of the heart, latin-ventri belly,, latin-auris ear, vetricle-lower portion/chamber/valves, auricle-ear shape like upper posrtion/chamber/valves.
+262 latin-auris ear as in auricle. upper chamber of the heart, earshaped
+263 avuncular like an uncle, caring, protective etc
+263 latin-dorsum dorsal back side
+263 endorse endorse a cheque- sign on the 'back' side, endorsement an ad- you back in like you take the responsibility of the product. you 'back in'.
+264 root-somnus sleep as in somniferous root-somnus sleep, root-fero give
+264 somniferous root-somnus sleep, root-fero give. sleep giving, ex:a somniferous lecture, debate,seminar etc
+264 insomnia prefix-in negative, root-somnus sleep. cant sleep
+264 somnolent sleepy, drowsy root-somnus sleep
+264 root-ambulo to walk, as in somnambulism sleep walker
+264 ambulatory-patient is finally enough to walk. root-ambulo to walk,
+264 perambulator-or-pram a baby carriage, root-ambulo to walk,
+264 amble walk aimlessly , root-ambulo to walk, like preable- before walk or before start, amble is walk aimlessly
+264 preable before walk or before start, introduction statement
+264 convalescent a person recovering from an illness or medical treatment; ambulatory-patient
+265 latin-sopar sleep
+265 soporific a sleepy lecture or sleeping pill
+265 banal not original
+270 trite lacking originality or dullness, dull on account of overuse; banal
