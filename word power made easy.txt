@@ -471,3 +471,33 @@
 290 infanticide killing the new born child 
 290 genocide killing the race, as hitler mass murder the jews.
 290 parricide killing of both or either parents or close relative. 
+299 fraternize brotherly relationship  root-fratris brother
+300 fraternal non identical (twins)  root-fratris brother
+300 fraternity people of similar interests or profession (the medical fraternity, the financial fraternity)
+300 sorority a women's organization especially one in american school or college
+300 uxorious a man who excessively, caters to, dotes on, worship his wife. latin-uxor wife
+300 uxorial wife duties,attitude, privileges
+300 marital marriage, marital duties, extra marital affairs, pre martial sex
+300 regal royal, latin-regis king
+301 regalia refer to an impressive formal clothes or uniform, ex: five star general appeared in full regalia
+301 monomaniac abnormal obsession to one single thing
+301 dipsomaniac greek-dipso thirst compulsion to keep on absorbing alcoholic beverages
+301 kleptomania morbid compulsion to thief. greek-klepte thief
+301 greek-klepte thief as in kleptomania - morbid compulsion to thief.
+301 greek-dipso thirst as in dipsomaniac- thirst compulsion to keep on absorbing alcoholic beverages
+301 pyromania morbid compulsion to fires
+301 morbid horrible. as morbid compulsion means horrible
+302 incendiarism malicious and deliberate burning to another's property for revenge. anti social
+302 arsonist burn the building or home to get insurance money, they are not maniac or something, its just an act.
+302 greek-pyros fire as in pyromania morbid compulsion to fires
+302 megalomania morbid delusions to get power, importance, godliness etc
+303 nymphomania morbid, incessant, uncontrollable desire on the part of a female for sex. greek-nymphe bride
+303 satyromania morbid, incessant, uncontrollable desire on the part of a male for sex. satyr- a greek, notorious god for lechery
+303 greek-nymphe bride as in nymphomania morbid, incessant, uncontrollable desire on the part of a female for sex.
+303 claustrophobia latin-claustrum enclosed spaces
+303 latin-claustrum enclosed spaces as in claustrophobia
+303 agoraphobia fear of open spaces, mainly in crowdy places like airports, buildings. greek-agora market place
+303 greek-agora market place as in agoraphobia
+304 acrophobia morbid dread of high places, greek-akros highest
+304 greek-akros highest  as in acrophobia
+304 dread great fear, ex: acrophobia- morbid dread of high places,
