@@ -521,7 +521,7 @@
 313 lascivious (related to sexuality) root-lascivia, feeling or revealing an overt sexual interest or desire. ex:  he gave her a lascivious wink
 313 lubricious (related to sexuality) root-lubricity, or lubricate , slippry. offensively displaying or intended to arouse sexual desire. ex: "he probed the ladies for every lubricious detail of their interactions" oil on body.
 313 licentious (related to sexuality) license, permission. ignoring societal standards, particularly in sexual conduct. ex: the ruler's tyrannical and licentious behaviour
-313 tyrannical using powers in a cruel way.
+313 tyrannical using powers in a cruel way. ex: she tyrannize her family
 313 lewd (related to sexuality) crude and offensive in a sexual way.
 313 vile extremely unpleasant. ex: "he has a vile temper"
 313 lustful (related to sexuality) having or showing strong feelings of sexual desire ex: "lustful glances"
@@ -572,7 +572,7 @@
 352 creed a religion belief hinduism, catholicism 
 352 disingenuous , ingenious means frank and open, thus disingenuous means who pretend to be ingenious but in reality is clever, like a wolf in sheep's clothing.
 356 retrospect a looking back.
-356 conspicuous easily seen or looked at
+356 conspicuous easily seen or looked at. ex: he showed conspicuous bravery.
 356 perspicacious per-spi-kacious person is keen minded, mentally sharp., prefix-pre through, so word means looking through (matters,etc) keenly, intelligently.
 356 acumen mentally sharp, quickness, keen insight, latin-acuo to sharpen as in acute, sharp
 356 latin-acuo to sharpen as in acute, sharp
@@ -581,7 +581,7 @@
 356 root-punctus point
 357 punctuate punctuate a sentence(you put various point {full stops, commas etc}), lightning punctuate a storm, silence punctuate by police sirens.... interrupt.
 357 punctilious pungk-TIL'-i-es showing great attention to detail or correct behavious, ex: he was punctilious in providing every amenity for his guests.
-357 astute having or showing an ability to accurately assess situations or people and turn this to one's advantage. ex: as astute businessman. 
+357 astute-businessman having or showing an ability to accurately assess situations or people and turn this to one's advantage. ex: as astute businessman. 
 357 perspicuous applies to writing style which is easy to understand, language is clear
 358 prospect looking forward, prospective bride, holidays, tours etc. future plans
 358 introspect looking inwards, atma chintan.
@@ -596,9 +596,9 @@
 395 ephemeral anything that last for short time and leaves no traces. ex: fashions are ephemeral: new ones regularly drive out the old
 396 tenet a principle  or belief, especially one of the main principle or belief in religion. ex: one of the basic tenets of semantics.
 396 euphemisms a mild or indirect word or expression substituted for one considered to be too harsh or blunt when referring to something unpleasant or embarrassing. ex: toilet- powder room, washroom.... die-expire, pass away, leave this vale of tears.... etc
-397 badinage humorous or witty conversation. ex: this is the time for business questions, not badinage
+397 badinage (ba·duh·naazh) humorous or witty conversation. ex: this is the time for business questions, not badinage
 397 banter exchange remark in good-humoured easing way. ex: the man bantered with the waitresses 
-397 bovine of a person, stupid, slow, dim-witted, sluggish, ex: he had a gentle, slightly bovine expression.
+397 bovine (cowlike) of a person, stupid, slow, dim-witted, sluggish, ex: he had a gentle, slightly bovine expression.
 397 nostalgia a sentimental longings for the period of past, ex: when you pass the neighbourhood in which you born and where you spent early years, do you have sharp strange reaction of mind nausea, that feeling is nostalgia.
 398 cacophonous sounds that grate. ex: the cacophonous sound of slot machine.
 398 clandestine kept secret or done secretly especially because illicit. ex: she deserved better than these clandestine meetings.
@@ -632,6 +632,81 @@
 405 eulogy a speech or piece of writing that praises someone or something highly, especially a tribute to someone who has just died. the eulogy to the Queen Mother.
 405 monologue a long speech by one actor in a play or drama.
 405 epilogue a section or speech at the end of book or speech that serves as a conclusion to what has happened. ex: the meaning of the book's title is revealed in the epilogue .
-405 prologue  a separate introductory ection of literary, dramatic or musical work. ex: the suppressed prologue to Women in love.
+405 prologue  a separate introductory section of literary, dramatic or musical work. ex: the suppressed prologue to Women in love.
 405 euphoria a feeling or state of intense excitement and happiness. ex: the drug produces intense feeling of euphoria.
 405 euthanasia (yoo-the-ne-sia) a painless killing of a patient suffering from an incurable disease or irreversible coma.
+405 frivolous not having any serious purpose or value. ex: frivolous frills and lacy frills. 
+405 flippant not showing a serious or respectful attitude. ex:  a flippant remark.
+405 persiflage (per-si-flaazh) conversation that is funny and not serious. ex: all that has been said about the old age pensioners was just airy persiflage. 
+405 contemptuous or contempt the feeling that a person or thing is worthless or beneath consideration.
+405 scornful expressing contempt (the feeling that a person or thing is worthless or beneath consideration.) ex: the opposition were scornful of the prime minister's proposal.
+405 derision (laughing) expressing contempt. ex: They treated his suggestion with derision.
+405 platitude cliche remark especially one with moral content. ex: she began uttering liberal platitudes
+405 truism cliche remark. ex: the truism that you got what you pay for.
+405 anodyne intended to avoid causing any offence especially by not expressing strong feeling or opinions. ex: anodyne music.
+406 bromide trite or dull statement.
+406 allay diminish or put at rest (fear, suspicion or worry). ex: the report attempted to educate people and allay fear.
+414 stolid calm, dependable, showing little emotion or animation, ex: a stolid bourgeois man
+414 bourgeois belonging to or characteristics of middle class, typically reference to its perceived materialistic values or conventional attitudes, ex: a self confessed and proud bourgeois. 
+414 sanctity the state of being sacred, holy or saintly''''' the quality of being very important and deserving respect. ex: the sanctity of human life.
+414 phlegmatic stolid or calm person. ex: the phlegmatic British character
+414 leonine like a lion in appearance or temperament. ex: a handsome, leonine profile.
+414 canine relating to or resembling dog or dogs. ex: a canine behaviour. (kind of: kutto ki trh ladna )
+414 feline resembling or suggestive of a cat. ex: she moved with feline grace.... feline walk.
+414 porcine resembling a pig or pigs. ex: his round face and nose earned the porcine man the nick name of porky.
+414 flushed red and hot, typically a result of illness or strong emotion. ex: her flushed cheeks.
+414 vulpine (cunning, crafty ) relating to a fox or foxes, ex: Karl gave a vulpine smile.
+414 thriving prosperous and growing, ex: the thriving vulpine population.
+414 shrewd having or showing sharp power of judgement or astute. ex: she was shrewd enough to guess the motive of his gesture.
+414 ursine relating to or resembling bears. ex: arriving in a ursine costume , the Halloween partygoer hoped his bear outfit was realistic enough.
+414 lupine relating to wolf or wolves. ex: a lupine howl.
+414 equine resembling a horse. ex: her somewhat equine features.
+415 piscine fishlike fishing is a distinctive piscine activity. 
+417 voracious having or eating great quantity of food. root-vora eating as in carnivorous
+417 devouring voracious having or eating a great quantity of food.
+415 root-carni flesh as in carnivorous, carnage, carnal.
+418 omnibus a volume containing several books or previously published separately. ex: an omnibus or her first trilogy. 
+418 carnelian a reddish gemstone. the colour of red flesh, root-carni flesh as in carnivorous, carnage, carnal. ex: carnelian color, brownish red
+418 carnal relating to physical or sexual need, love for flesh not for soul. root-carni flesh as in carnivorous, carnage, carnal. ex: carnal desire.
+418 carnage great destruction of life. ex: the bombing was timed to cause as much carnage as possible.
+419 incarnate (especially of a deity or spirit) embodied in human form. ex: god incarnate 
+419 furtive (fuh-tive) attempting to avoid notice or attention, typically because of guilt or a belief that discovery would lead to trouble. secretive. ex: they spent a furtive time together 
+419 surreptitious kept secret, especially because it would not be approved of. ex: low wages were supplemented by surreptitious payments from tradesman. 
+433 archaic very old or old fashioned ex: the spelling of english words is archaic. 
+433 misbegotten badly conceived or planned. ex: designed to conserve fish stocks, this misbegotten idea scheme has reduced some species to near extinction.
+433 reputable held in good repute, honorables, respectable. ex: english orthography satisfies all the requirement of the canons of reputability under the law of conspicuous waste.
+433 cumbersome large or heavy and therefore difficult to carry or use, ex: cumbersome diving suits
+433 erudite (aye-roo-dait) having or showing great knowledge or learning. ex: ken could turn any conversation into erudite discussion.
+435 supersede (soo-puh-seed)take place of (a person or thing previously in authority or use) ex: the older model of the car have now been superseded.
+435 ecstasy (uhk-stuh-see) the state of extreme happiness or pleasure (can be used for sexual pleasure) ex: she threw her head back as if in ecstasy .
+435 inimitable so good or unusual as to be impossible to copy, unique. ex: the took the charts by storms with their inimitable style.
+435 anoint smear or rub with oil. ex: kuna Indians anoint the tips of their arrows with poison.
+436 dispair complete loss or absence of hope. ex: a voice full of self-hatered and despair. 
+439 indispensable extremely necessary ex: education is indispensable for the preservation or democracy.
+439 corroborate confirm or give support to (a statement, theory, finding) ex: the witness had corroborated the boy's account of the attack. 
+439 sacrilege (sa-kruh-luhj)violation or misuse of what is regarded as sacred. ex: the sacrilege of committing a murder on holy ground
+439 tranquil free from disturbance. calm. ex: passing cars are the only noise that disturb the tranquility or rural life.
+439 exhilaration (uhg-zi-li-ration) making someone feel very happy, thrilling. an exhilarating two hour rafting experience.
+439 perseverance (pehr-si-va-rence) persistence in doing something despite of difficulty or delay in achieving success. ex: his perseverance with the technique illustrates his single mindedness. 
+439 vacillate waver between diferrent opinions or actions. confuse between. ex: I vacillated between teaching and journalism.
+439 indecisive (in-duh-sai-sive) not able to make decision quickly and effectively. ex: he was too indecisive to carry out his political programme.
+440 grievous (greev-uhs) very severe or serious. ex: his death was a grievous blow.
+440 plebeian (pli-bi-an) of or belonging to the lower social classes. ex: two dancers, one royal and one plebeian.
+443 vigil a period of keeping awake during the time usually spent asleep, especially to keep watch or pray. ex: my birdwatching vigils lasted for hours.
+443 castigate (remember as resticate) scold someone severely, reprimand severely. ex: he castigated his child in front of whole school.
+443 reprimand (re-pri-maand) a formal expression of disapproval. ex: the golfer received a reprimand for a breach of rules.
+444 self-abnegating showing a disinterest and selfless for the well being of others, unselfish. ex: a loving and self-abnegating mother.
+443 outmoded old fashioned, ex: an outmoded victorian building.
+443 scrimp be thrifty or parsimonious, economize. ex: I have scrimped and saved to give you a good education.
+444 recapitulate summarize and state again the main points of. ex: he began to recapitulate his argument with care.
+444 vegetate live or spend a period of time in a dull, inactive, unchallenging way. ex: if she left him alone, he'd sit in front of television and vegetate. 
+444 ennui (on-vi) a feeling of listlessness and dissatisfaction arising from lack or occupation, or excitement. ex: he succumbed to ennui and despair.
+444 succumb (suh-kuhm) fail to resist pressure, temptation or some other negative force. ex: we cannot merely give up and succumb to despair
+445 feign (fein) pretend to be affected by (a feeling, state or injury) ex: she feigned nervousness.
+445 simulate imitate the appearance or character . ex: red ochre intended to simulate blood.
+445 intimate closely acquainted, slight hint and no more. (can be refer to close like an intimate little italian resturant.) ( or can be used for private and personal like intimate details of his sexual encounters.) (or can be use for sexual relationship like the plan to wait before becoming intimate with one another).
+445 alleviate make (suffering, deficiency or a problem ) less severe ex: he couldn't prevent her pain, only alleviate it.
+446 commiserate (kah-mi-se-reit) expressing or feel sympathy or pity, sympathize ex: she went over to commiserate with rose on her unfortunate circumstances. 
+446 vacillate (vasi-layt) waver between different opinions or actions; be indecisive. ex: I vacillate between teaching and journalism. 
+446 resolute determined and unwavering, he was resolute in his fight to uphold liberal values.
+446 virile having strength, energy and a strong sex drive. ex: he was a powerful, virile man.
