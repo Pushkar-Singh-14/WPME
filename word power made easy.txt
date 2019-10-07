@@ -784,7 +784,296 @@
 000 enviable arousing or likely to arouse, desirable. emit envy feeling for others. ex: the firm is in enviable position of having a full order book.
 000 juxtaposition (jux-Ta(tamatar)-position) if a waiter served you a whole fish and a scoop of chocolate ice cream on the same plate, your surprise might be caused by juxtaposition, or the side-by-side contrast of the two foods, ex: but there is a striking juxtaposition between that strategy and the administration's words and actions since then.
 000 discontented dissatisfied, especially with ones circumstances. ex: I am so discontented with my work.
-000 resentful (re-zent-ful) feeling or expressing bitterness at having been treated unfairly. ex: he was angry and resentful of their intrustion
+000 resentful (re-zent-ful) feeling or expressing bitterness at having been treated unfairly. ex: he was angry and resentful of their intrusion
 000 twinge (twinj) a sudden, sharp localized pain. ex: he felt a twinge in his knee.
 000 indignation (in-dig-nation) anger or annoyance provoked by what is perceived as unfair treatment. ex:  the letter filled Lucy with indignation.
-000 niche (nee-chei) a job or position that is very suitable for someone,c especially one that they like OR an area or position that is exactly suitable for a small group of same type. ex:an ecological niche 
+000 niche (nee-chei) a job or position that is very suitable for someone especially one that they like OR an area or position that is exactly suitable for a small group of same type. ex:an ecological niche 
+101 abandon cease to support or look after. ex: Her natural mother had abandoned her at an early age.
+102 abase disparaging, humiliate  ex: I watched my colleagues abasing themselves before the board of trustees. 
+103 belittle disparaging ex: she belittled Amy's riding skills whenever she could.
+104 abate decline, subside, lessen. ex: the storm suddenly abated.
+105 subside become less intense, violent or severe. ex: I'll wait a few minutes until the storm subsides.
+106 abbreviate shorten, abbreviation, shorten the duration of. ex: I decided to abbreviate my stay in Cambridge
+107 abdicate (ab-duh-keit) resign, retire, quit, abjure, ex: the government was accused of abdicating its responsibility.
+108 aberration aberration is something that is not normal, like when temperature hits 90 in January. or child labour working in coal mines. ex: they describes the outbreak of violence in the area as an aberration.
+109 abet encourage or assist (someone) to do something wrong, in particular to commit a crime. ex: Pakistan is guilty because of aiding and abetting the terrorism,
+110 abhor (ub-haw) dislike intensely, hate, detest, ex: He abhorred sexism in every form.
+111 abide (uh-baide) in the sense of (people of North Korea.). obey, follow, be faithful, to endure.  ex: I said I would abide their decision, 
+112 abjure (ab-juor) abjure is a more dramatic way to declare your rejection of something you once felt or believed. ex: you might abjure the field of astronomy after receiving the 113 fortune or you might abjure the marriage after a bitter divorce.
+114 ablution (uh-bloo-tion) washing for personal hygiene or a ritual washing or cleaning associated with religious observance. ex: the women performed their ablution.
+115 abscond leave hurriedly and secretly, typically to escape from custody or avoid arrest. ex: the barman absconded with a week's taking.
+116 abstruse difficult to understand, ex: am abstruse enquiry 
+117 abysmal (uh-biz-mal) extremely bad, ex: the quality of his work is abysmal.
+118 appalling (uh-paw-ling) very bad, awful, ex: the cat suffered appalling injuries during attack
+119 abyss a deep or seems no ending. ex: the rope led down into the dark abyss.
+120 accede (ak-sied) agree to a demand, request or treaty, ex: the authority did not accede to the striker's demands. 
+201 impoverishes (im-po-vi-ri-sh) make poor, ex: the wars had impoverish him.
+202 congruence compatibility, harmony, ex: the results show quite good congruence with recent studies.
+203 blight a thing that spoils or damages something. ex: the vacant properties are a blight on the neighbourhood
+204 pompous self-important, supercilious, arrogant, haughty, ex: a pompous ass who pretends he knows evrything.
+205 minnow a small or insignificant person or organization. ex: the paper is a minnow in the national newspaper mass.
+206 contemporaries either happening at the same time or happening now. contemporaries are people and things from the same time period, contemporary music or contemporary furniture are new, not old. 
+207 nuance (nyoo-ance) subtle difference in a shade of meaning, expression or sound. ex: he was familiar with the nuances of the local dialect.
+208 invigorate (in-vi-ge-reit) give strength or energy to, revitalize, revive, rejuvenate ex: the shower had invigorated her.
+209 vernacular the language or dialect spoken by the ordinary people in a particular country or region. ex: he wrote in the vernacular to reach a larger audience.
+210 adhere stick fast to. believe in and follow the practices of. ex: paint won't adhere well to a greasy surface. ex: I do not adhere to any organized follow
+211 futile/futility pointless, uselessness, incapable of producing any useful result, pointless. ex: a futile attempt to keep fans from mounting the stage. 
+212 genuflect (jenu-flact) lower one's body briefly by bending one knee to the ground, typically in a worship or as sign of respect. ex: you should genuflect to the queen.
+213 loco crazy ex: things got loco.
+214 charismatic (ka-ris-mat-ic) exercising a compelling charm which inspires devotion in others. ex: He has a charismatic figure with great appeal to the public.
+215 clan a group of people with a strong common interest. ex: New York garrulous clan of artist
+216 amply (ampli) enough or more then enough, plentifully. ex: The persistent reader is amply rewarded.
+217 rosier rosy. (especially of a person's skin) coloured like a pink or red rose, typically as an indication of health, youth or embarrassment. ex: the memory had the power to make her cheeks turn rosy.
+218 poignant (poi-ni-ant) evoking a keen sense of sadness or regret. Poignancy of the movie may bring you to tears, Bring tissues, Lots of tissues.  ex: a poignant reminder of the passing of time
+219 felony felony is a serious crime like murder, arson (arsonist), or burglary (buh-glu-ri). eX: He pleaded guilty to six felonies.
+220 divulge (dai-vuhlj) disclose(private or sensitive information) ex: I do not want to divulge my plans at the moment.
+221 emancipation liberation, the fact or process or being set free from legal social or political restrictions.  ex: the social and political emancipation of women
+222 profuse (pruh-fyoos) very plentiful, abundant. ex: I offered my profuse apologies.
+223 scarce (is-kaey-se) insufficient for the demand especially related to food, money or some other resource, ex: As raw materials became scarce, synthetics were developed.
+224 sedentary (seh-duhn-tree) sedentary means sitting a lot and refers to a person or job that is not a very physically active. ex: scientists believe that one of the causes of the obesity epidemic sweeping the US is our sedentary lifestyle
+225 embattled surrounded by enemy forces and for this people preparing for war. ex: the embattled northern province
+226 kerfuffle (kier-fa-fle) a commotion or fuss, especially one cause by conflicting views, ex: there was a kerfuffle over the champianship
+227 litigation the process of taking legal action. ex: the company wishes to avoid litigation
+230 commotion a state of confused and noise disturbance. ex: she was distracted by the commotion across the street.
+231 concordant in agreement, ex: the answers were roughly concordant,
+232 fiscal related to money, revenue, taxes. fiscal-deficet means government expenditure is more then its earning. ex: monetary and fiscal policy,
+233 ebullient (uh-buh-lee-ant) cheerful and full of energy. ex: she sounded ebullient and happy.
+234 sprawling spreading out over a large area in an untidy or irregular way. ex: the sprawling suburbs. 
+235 bungling (buhng-guh-ling)the action or fact of carrying out a task clumsily or incompetently. ex: he was heavily criticized for his bungling of the case. 
+236 utopian modelled on or aiming for a state in which everything is perfect, ex: an utopian ideology.
+237 quest a long or arduous search for something. ex: the quest for a reliable vaccine has intensified
+238 deter discourage (someone) from doing something by instilling doubt or fear of the consequences. ex: only a health problem would deter him from seeking re-election.
+239 lousy very poor or bad, ex: the service is usually lousy
+240 imperative a vital importance, crucial. ex: immediate action was imperative.
+241 leery cautious or suspicious. ex: a city leery of gang violence
+242 albeit even though. ex: he was making progress, albeit rather slowly
+243 bewildering confusing. ex: there is a bewildering array of holidays to choose from.
+244 loathes hate; feel intense dislike or disgust for. ex: she loathed him on sight
+245 insurgencies an active revolt against mainly govt. ex: rebels are waging an armed insurgeny to topple the monarchy
+246 impediment a hinderance or obstruction in doing something. ex:a serious impediment to scientific progress.
+301 misdemeanour (mis-demean-or) minor wrongdoing, a player can expect a suspension for his latest misdemeanour
+302 liberation discharge from prisonment.
+303 arduous difficult or tiring ex: an arduous journey
+304 topple overbalance or caused to overbalance and fall. ex: she toppled over when I touched her.
+401 hone/honing sharpen ex: he was carefully honing the curved blade 
+402 jaunt (jaw-nt) a short excursion or journey made for pleasure. ex: her regular jaunts to Europe.
+403 excursion syn:jaunt.. short journey or trip, especially one taken as a leisure activity ex: an excursion to london zoo. 
+404 paradigm (para-dime) a typical example of something. ex: society's paradigm of the "ideal woman".
+405 prominence a state of being important, famous, or noticeable. ex: she came to prominence as an artist in 1960
+406 disillusionment a feeling of disappointment resulting from the discovery that something is not good as one believed it to be. ex: I have become very disillusioned with politics.
+407 sceptics (skeptic) Someone who habitually doubts accepted beliefs.
+408 akin having similar character or qualities. ex: my parents were akin, probable half cousions.
+409 entrenched establish (an attitude, habit, or belief) so firmly that change is very difficult or unlikely. ex: Ageism is entrenched in our society.
+410 refutes prove (a statement or theory or someone) to be wrong or false. ex: His voice challenging his audience to rise and refute him.
+411 predicament (pri-di-ka-ment) a difficult, unpleasant or embarrassing situation, ex: the club's financial predicament.
+412 quandary (qwuan-d(a)ri) dilemma. ex: kate was in a quandary
+413 communism a theory or system of social organisation in which all the property owned by the community and each person distributed and receives according to their ability.
+414 totalitarian (tow-ta-li-ta-ri-an) dictatorial, tyrannical. ex: a totalitarian regime.
+415 excoriate/excoriation (iks-co-riate) syn: scrape damage or remove part of the surface of (the skin). the discharge is acrid and excoriates the skin of the nose.
+416 rambling syn: garrulous lengthy and confused or inconsequential. a rambling six-hour speech.
+417 denounce (di-nau-nce) publicly declare to be wrong or evil. ex: the Assembly denounced the use of violence.
+418 despotism tyranny, dictatorship, totalitarianism. the exercise of absolute power, especially in a cruel and oppressive way. ex: the ideology of enlightened despotism.
+419 perished die especially is a violent or sudden way. ex: the great part of his army perished of hunger and disease.
+420 famines extreme scarcity of food, ex: drought resulted in famine throughout the region.
+501 plunged jump or dive quickly and energetically. ex: joy stripped her clothes off and plunged into the sea.
+502 untenability undefendable, not able to maintain or defend against attack or objection. ex: this argument is clearly untenable.
+503 nascent just coming into existence and beginning to display signs of future potential. ex: the nascent economic recovery
+504 ingenuous (in-je-nuous) innocent, childlike, ex: he eyed her with wide, ingenous eyes.
+505 turpitude depraved or wicked behaviour or character. ex: acts of moral turpitude.
+506 dilatory slow to act. ex: he had been dilatory in appointing a solicitor
+507 exonerated absolve someone from blame for a fault or wrong doing. ex: an inquiry exonerated those involved.
+508 grafts graft can mean bribery or corruption, its also a ways of transplanting skin. the skin that transplnted is called graft and process is called skin graft.
+509 retort say something in answer to a remark, typically in a sharp, angry, or witty manner. ex: "‘No need to be rude,’ retorted Isabel"
+510 Stringent strict, precise. ex: stringent guidelines on air pollution"
+511 Exchequer (ex-cheker) a royal or national treasury. ex: an important source of revenue to the sultans's exchequer.
+512 Viscera (vis-(e)ra)the internal organs in the main cavities of the body, especially those in the abdomen, e.g. the intestines.
+513 Anarchy a state of disorder due to absence or non-recognition of authority or other controlling systems. ex: the countary is threatened with anarchy.
+514 Aide (aid) an assistant to an important person. ex: a presidential aide.
+515 Averted turn away (one's eyes or thought.) ex: she averted her eyes while we made stilted conversation.
+516 Tribunal a body established to settle certain type of disputes. ex: a rent tribunal
+517 Sans without. ex: a picture of Maughan sans specs
+518 Amid surrounded by, in the middle of. ex: one should amid himselft/herself by good people.
+519 Strife angry or bitter disagreement. ex: strife within the community.
+520 Fritter waste time, money or energy on trifing matters. ex: I wish we hadn/t frittered the money away so easily.
+521 Divisive if you say something that is intended to make people angry with each other, your words are divisive. ex: Even in our most divisive struggles, we find ways to work together.
+522 Foster supprot, encourage the development of something desirable ex: the teacher task is to foster learning.
+523 Bludgeon (bluh-jin) a thick stick with a heavy end, used as a weapon. ex: she was found bludgeoned to death in the basement.
+524 Studiously with concentration, ex: she gets on with his work quietly and studiously.
+525 Wriggle twist and turn movements, ex: the puppy wriggled in his arms,
+526 Subterfuge (subtr-fuje) using of deception in order to achieve ones goal.
+527 Disenchant cause(someone) to be disappointed. ex: the may have been disenchanted by the loss of his huge following.
+528 Daunt shake, fear. ex: some people are daunted by technology. 
+529 Babble talk rapidly and continuously in a foolish, excited, or incomprehensible way. ex: "they babbled on about their holiday"
+530 Superfluous unnecessary, especially through being more than enough. ex: "the purchaser should avoid asking for superfluous information"
+531 Deceit the action of deceiving someone by hiding truth. ex: a web of deceit.
+532 concoct an elaborate story of mixtures or fabricated, ex: he story is an imporbable concoction.
+533 Prevail prove more powerful or superior. ex: it is hard for logic to prevail over emotion.
+534 Plummet fall or drop or decrease rapidly in value or amount, ex: auto sales plummet
+535 Soar fly or rise high in the air, ex: the bird spread its wings and soared into the air,
+536 Placard notice/poster/bill for public display. ex: they were placarding the town with posters.
+537 Extradition handover a person accused or convicted of a crime.
+538 Rebut (re-but) claim or prove the (evidence or an accusation) is false. ex: he had to rebut charges of acting dor the convenience of this political friends.
+539 Blasphemy (blas-ph-mi) the action or offence of speaking sacrilegiously about god or sacred things, ex: he was detained on the charges of blasphemy,
+540 Pedophilla pedophlilla is a disorder in which the adult or adolescent experience a primarty or exclusive sexual attraction to childern.
+541 Annihilated (anai-li-ate) destroy completely. ex: a bomb of this kind can annihilated them completely. 
+542 Headbutt an aggressive and forceful thrust with he top of the head into the face or body or another person. ex: he tries a headbutt, which I dodge,
+543 Plaint (plent) an accusation or charge
+545 Mire (mai-ya) soft mud or dirt, ex: the roads retained their winter mire.
+546 Enshrined preserve(a right, tradition or idea) in a form that ensured it will be protected ann respecred. ex: the following rights should be enshrined in the treaty" 
+547 Anomaly (anomli)something that deviates from what is standard normal or expected. ex: there are a number of anomalies in the present system,
+548 Spurt move with a sudden burst of speed. ex: the car had spurted to the top of the ramp.
+549 Clout (political clout on police) 2 meaning, 1. a heavy blow witht he hand or an hard object, ex: a clout round the ear 2. influence or power especially in politics or business, ex: I know she carried a lot of clout.
+550 Muster assemble (troops), especially for inspection or in preparation for battle. ex: 17k men had been mustered on Haldon Hill.
+551 Plethora (pleh-tho-ra) a large or excess amount of something, ex: the plethora or commitees and subcommittes
+552 Myscticism supernaturals, 
+553 Embodiment When you talk about embodiment, you're talking about giving a form to ideas that are usually not physical: like love, hate, fear, justice, etc. A gavel is the embodiment of justice; a wedding ring can be the embodiment of love. ex: a flag is the embodiment of a country
+554 Superfluity surplus, excess. an unnecessarily or excessively large amount or number of something. ec: a superfluit of unoccupied time,
+555 Architectonics the scientific study or architechture
+556 Pre-eminently above all, ex.: the novel is pre-eminently a realistic genre.
+557 Exquisitely extremely delicate matter, sensitive. 
+558 Wrought (of metals) beaten out of shaped by hammering.
+559 squandder waste (something, especially money or time) in a reckless and foolish manner. ex: the team squandered several good scoring chances.
+560 absolve declare someone free from guilt, obligation or punishment. ex: she asked the bishop to absolve her sins
+601 Diaspora people who have been spread or been dispersed from their homeland, ex: the Ukrainian diaspora flocked back to kiev.
+602 Miniscule extremely small, tiny, ex: the miuscule fragment of DNA,
+603 Promulgate announce something publicily.
+604 Vandalism action involving deliberate distruction of or damage to public or private property. ex: an act of mindless vandalism.
+605 Spur stimulate, encourage. her son's passion for computer games spurred her on to set up a software business.
+606 Menace a person or thing that is like to cause harm, a threat or danger, ex: "a new initiative aimed at beating the menace of drugs"
+607 Formidable inspiring fearor respect through being impressively large,intense or capable.......What do the national debt, your old gym teacher, and your mother-in-law have in common? They're all formidable — that is, they inspire fear and respect thanks to their size, or special ability, or unusual qualities.,,,,ex: a formadable opponenet.
+608 Sift examine something thoroughlhy so as to isolate that which is most important. ex: untill we sift the evidence ourselves we can't comment objectivey.
+609 Tortuous full or twist and turns. ex: the route is remote and tortuous.
+000 Agitation a state of anxiety or nervous excitement. ex: she was winging her hands in agitation.
+000 Straddlers sit or stand with one leg on either side of. ex: he turned the chair round and straddled it.
+000 Limbo a state of neglect or oblivion. ex: these prosoners are in limbo. no one is responsible for their welfare.
+000 Eschew deliberately avoid using, abstain from. ex: he appealed to the crowd to eschew violence.
+000 Outmanoeuvre (out-menu-ver) evade (an opponent) by moving faster or with greater agility.
+000 agility ability to move quickly and easily. ex: though he was without formal as dance or athele, his physical agility was inexhaustible.
+000 Clergy in church, clergy is the entire class or religious officials, from priests to pastors to bishops and beyond. clergy come from latin word clerk. ex: "all marriages were to be solemnized by the clergy"
+000 Choir (kwai-uh) an organized group of singers, especially one that takes part in church services or performs in public. ex: "a church choir"
+000 Rhetoric oratory (speaking and writing), eloquence,  ex: he is using a common figure of rhetoric, hyperbole
+000 Conciliation the action of stopping someone being angry; placation. ex: "he held his hands up in a gesture of conciliation" 
+000 Concur agree. ex: police officer concured with the statement
+000 Doldrum the state or period or stagnation or depression. ex: the market has been in doldrums for three years.
+000 asphyxiate (ass-phyx-iate) kill(someone) by depriving them of air. ex: an authoritarian rule asphyxiating  a free wheeling global metropolis.
+000 Metropolis a capital or chief city of a country or region. ex: he preferred the peaceful life of the countyside to the bustle of the metropolis
+000 bustle move in an energetic and busy manner. ex: he preferred the peaceful life of the countyside to the bustle of the metropolis
+000 Splurging (sp-la-rge) an act of spending money freely or ectravagantly. ex: the annual pre-christmas splurge
+000 Strident (of a sound) loud and harsh. grating. ex: his voice had become increasingly strident. 
+000 Receptive willing to consider or accept new suggestions and ideas. ex: a receptive audience.
+000 Jubilant feeling or expressing great happiness and triumph. ex: "a large number of jubilant fans ran on to the pitch"
+000 Dais a low platform for a lecturn or throne.
+000 Ostensible (os-ten-sible) stated or appearing to be true but not necessarily so, superficial. ex: in an ostensible effort to showcase India's plurality of hindutva modi met group of Muslims, sikh
+000 Trample tred on and crush, ex: the fence had been trampled down.
+000 Collegium (kuh-lee-jee-uhm) a society ex: the Supreme court collegium of CJI Gogoi and Ramana
+000 assert state a fact or belief confidently and forcefully. ex: asserting that the time has come.
+000 Stranded return to ones country ex: Thomas Cook collapses, 6 lac tourists stranded
+000 Repatriation the return of someone to their own country. Ex: Thomas Cook goes bankrupt. 6 lac holiday makers stranded and UKs biggest repatriation since WW2
+000 Turmoil (ter-moil) ex: a state of great disturbance. ex: financial turmoil
+000 Reign (rain) hold royal office, rule as monarch. ex: Queen Elizabeth reigns over the UK 
+000 bête-noire (bet-nwa) a person or thing that one particulary dislikes, ex: great-uncle Edward was my father's bête noire
+000 Rein restrain, keep under control. ex: frame norms to rein in misuse of social media
+000 Crusade vigorous campaign for political, social, or religious change. ex: Greta Thunberg continues crusade against climate change.
+000 Tutelage protection of or authority over someone or something; guardianship. ex: xx fought soviet troops in Af under CIA tutelage
+000 Ad-lib (add lib) speak or perform in public without previously preparing one's words. Ex: Charles had to ad-lib because he'd forgotten his script"
+000 Dismayed shock, surprise, concern ex: they were dismayed by the invites. (kashmiri student invited by Yogi.)
+000 Prudent acting with or showing care and thought for the future. ex: Your desires and our dreams match perfectly Your technology and our talent can change the world. Your prudent methods and our pragmatic mind can write new stories in management," Modi said at an event or ganised by Bloomberg Philanthropies.
+000 Pragmatic dealing things sensibly or more practically rather then theoritical consideration, ex: Your desires and our dreams match perfectly Your technology and our talent can change the world. Your prudent methods and our pragmatic mind can write new stories in management," Modi said at an event or ganised by Bloomberg Philanthropies.
+000 Tepid slightly warm or lukewarm ex: the statement comes amid concern over an economic slowdown and tepid investment
+000 Overhauled take apart in order to examine or repair. ex: ayushman bharat plan overhauled, 554 packages nixed
+000 Nixed put an end to, cancel ex: ayushman bharat plan overhauled, 554 packages nixed
+000 Flak
+000 Scuttle deliberately cause (a scheme) to fail. Ex: china scuttle global efforts to impose sanctions against pakistan based terrorists like JeM.
+000 Quashing reject as invalid, especially by legal procedure. Ex: SP leaders seek quashing of FIR against students union
+000 Illicit forbidden by law, rules, or custom. Ex: illicit liquor worth ₹25L seized.
+000 Rap striking hard on surface with words ex: NGT raps UP govt over potable water
+000 Threadbare used so often that it is no longer affected. Ex: the reason for low GDP has been discussed threadbare in numerous articles.
+000 Brazen bold and without shame ex: Khan's justification of terrorism was brazen and incendiary
+000 Debilitating (De-bili-tating) (of a disease or condition) making someone very weak and infirm. Ex: debilitating humidity stifles Doha women's Marathon
+000 infirm not physically or mentally strong, ex: those who were old or infirm
+000 stifles make (someone) unable to breathe properly; suffocate ex: debilitating humidity stifles Doha women's Marathon
+000 Cordoned prevent access to or from the area or building by surrounding it with police or other guards. ex: the city centre was cordoned off after fires were discovered in two stores
+000 Rift break apart ex: messi denies Barcelona rifts
+000 Shun avoid or reject ex: on Gandhi jayanti,DM asks women to shun ghoonghat
+000 Sedition conduct or speech inciting people to rebel against the authority of a state or monarch.ex: Sefition charges on 50 celbs for writing to PM on mob lynching
+000 Mob-Lynching when mob become out of cobtrol, massive mob. Ex Sefition charges on 50 celbs for writing to PM on mob lynching
+000 Curtail reduce the extent of quantity. Ex: SC curtain repititive Ayodhya land dispute arguments by a day
+000 Unwarrented not justified or authorized.ex: these statements are factually incorrect, biased and unwarrented.
+000 Desist stop doing something. Ex: and desist from making such comments .
+000 Defiance resistance, audacity, boldness. Ex: South African defiance (match)
+exalted of a per
+sages
+elated
+jeopardized
+agglomerate
+radical
+entice
+finicky
+bucking
+retrograde
+reactionary
+impunity
+coveted
+kaleidoscopic
+laureates
+endocrinologist
+obscurantism
+sporadic
+nudged
+proclivities
+progeny
+stifle
+cajoled
+shudders
+contraptions
+protagonist
+elucidate
+trait
+Inquisitive
+Contemplative
+androgynous
+reinsich
+prudence
+eminent
+antagonistic
+adversarial
+proliferation
+antagonistic
+legion
+penchant
+canonisation
+prolific
+inexorable
+pervasiveness
+burgeoning
+emperical 
+prosaic
+engulfs
+intricate
+consonance
+tracts
+meagre
+cul-de-sac
+stalwarts
+lackadaisical
+elusive
+proliferation
+dispirited
+enigmatic
+hitherto
+cohort
+whipsaw
+septuagenarians
+remnants
+paraphernalia
+peabody
+foliage
+twigs
+bestow
+shenanigans
+fudged
+obfuscated
+evocative 
+curiouser
+rogue
+
