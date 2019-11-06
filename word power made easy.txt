@@ -1001,79 +1001,134 @@
 000 Unwarrented not justified or authorized.ex: these statements are factually incorrect, biased and unwarrented.
 000 Desist stop doing something. Ex: and desist from making such comments .
 000 Defiance resistance, audacity, boldness. Ex: South African defiance (match)
-exalted of a per
-sages
-elated
-jeopardized
-agglomerate
-radical
-entice
-finicky
-bucking
-retrograde
-reactionary
-impunity
-coveted
-kaleidoscopic
-laureates
-endocrinologist
-obscurantism
-sporadic
-nudged
-proclivities
-progeny
-stifle
-cajoled
-shudders
-contraptions
-protagonist
-elucidate
-trait
-Inquisitive
-Contemplative
-androgynous
-reinsich
-prudence
-eminent
-antagonistic
-adversarial
-proliferation
-antagonistic
-legion
-penchant
-canonisation
-prolific
-inexorable
-pervasiveness
-burgeoning
-emperical 
-prosaic
-engulfs
-intricate
-consonance
-tracts
-meagre
-cul-de-sac
-stalwarts
-lackadaisical
-elusive
-proliferation
-dispirited
-enigmatic
-hitherto
-cohort
-whipsaw
-septuagenarians
-remnants
-paraphernalia
-peabody
-foliage
-twigs
-bestow
-shenanigans
-fudged
-obfuscated
-evocative 
-curiouser
-rogue
-
+000 exalted (of a person or their rank or status) at a high or powerful level. ex: it had taken her years of infighting to reach her present exalted rank.
+000 sage/sages (especially in ancient history or legend) a profoundly wise man. ex: "the sayings of the numerous venerable sages"
+000 venerable respected ex: "the sayings of the numerous venerable sages"
+000 elated make (someone) ecstatically happy. ex: "I felt elated at beating Dennis"
+000 jeopardized (je-pa-r'-dai-zeed) put someone or something in a situation where there is a danger of loss, harm or failure. ex: a decaluation of the dollar would jeopardized NY position as a financial centre.
+000 agglomerate (agglo-m-raiet) collect or form into a mass or group. ex: he is seeking to agglomerate the function of the Home office,
+000 radical especoally of change or action relating to or affecting the fundamental nature of something reaching or thorough. ex: a radical overhail of the existing regulatory framework,
+000 entice attract/lure by offering pleasure or advantage, ex: a show which should entice the new audience into the theatre.
+000 finicky (of a person) fussy(very attentive or concern) about their needs or requirement, ex: a finicky eater.
+000 fussy very attentive or concern about one need. ex: he is very fussy about what he eats
+000 bucking make of become more cheerful. ex: Bella and Jim need me to buck them up.
+000 retrograde directed or moving backward. ex: a retrograde flow.
+000 reactionary opposing political or social reform. ex: reactionary attitudes toward women's rights.
+000 impunity exemption from punishment or freedom from the injurious consequences of an acrion. ex: thet impunity enjoyed bt military officers implicated in civilian killing.
+000 coveted greatly desired or envied. ex: I gave up a conveted job, that of editor-in-chief.
+000 kaleidoscopic (kah-lai-do-sco-pic) having complex patterns or colours. ex: Kaleifoscopic diamond pattern.
+000 laureates (law-riet) a person who is honoured with a award for outstanding creative or intellectual achievement, ex:a nobel laureate
+000 endocrinologist a medical practitioner qualified to diagnose and treat disorders of the endocrine glands and hormones. ex: "he is a well-respected endocrinologist who specializes in treating both Type I and Type II diabetes"
+000 endocrine (glands which secrete into blood) The endocrine system is made up of the pituitary gland, thyroid gland, parathyroid glands, adrenal glands, pancreas, ovaries (in females) and testicles (in males),
+000 obscurantism (obs-kyu-rantism) the practice of deliberately preventing the facts or full details of something from becoming known, eX: allegations in the press about government obscurantism.
+000 sporadic occurring at irregular intervals or only in a few places; scattered or isolated. ex: sporadic fighting broke out.
+000 prod poke someone gently with a finger, foot or pointy object. ex: prod (someone) gently with one's elbow in order to attract attention.
+000 nudged prod (someone) gently with one's elbow in order to attract attention. ex: "people were nudging each other and pointing at me"
+000 proclivities inclination ex: a proclivity for hard work.
+000 predisposition a liability or tendency to suffer from a particular condition. ex: a child may inherit a predisposition to schizophrenia.
+000 progeny a descendant or the decentants of a person, animal, or plant; offspring. ex: shorthorn cattle are highly effective on bestowing their characteristics on their progeny.
+000 stifle make someone unable to breathe properly ; suffocate. ex: those in the streets were stifled by the fumes.
+000 cajoled persuate someone to do something bt sustain coaxing or flattery. ex: he hoped to cajole her into selling the house.
+000 shudders tremble convulsively, typically as a result of fear or revulsion. ex: she still shuddered at the thought of him.
+000 contraptions (k-a'-n-traption) a maachine or device that appears strange or unnecessarily complicated or often badly made or unsafe. ex: wearers use the strange contraption for facial exercise.
+000 protagonist the leading character or one of the major characters in a play, film or novel. ex: the novel's main protagonist is an American intelligence officer.
+000 elucidate make(something) clear, explain. ex: work such as it will help to elucidate this matter.
+000 trait a distinguishing quality of characteristic, typically one belonging to a person. ex: the traditionally Bristish trait of self-denigration(self-critisizing).
+000 denigration the action of unfairly criticizing someone or something. ex: the traditionally Bristish trait of self-denigration
+000 Inquisitive  having or showing an intrest in learning things, curious. ex: his poems reveal an intensely inquisitive mind.
+000 Contemplate look thoughtfully for a long time at...examne eX: he contemplated his image in the mirrors
+000 androgynous (andro-ji-nous) partly male and partly female in appearance, of indeterminate sex. ex: a stunningly androgynous dancer.
+000 hermaphrodite (he'- mar-pho-diet) a person or animal having both male and female sex organs or other characterisitcs either abnormly or as the natural condition. 
+000 prudence (pru-den-s') the quality of being produent (acting with showing care or thought of future); catiousness ex: we need to exercise prudence in such important matters.
+000 eminent (of a person) famous and respected within a particular sphere. ex: one of the world's most eminent statisticians
+000 antagonistic (anta-go-ni-s-tic) showing or feeling active opposition or hostility towards someone or something. ex: he was antagonistic to the government's reforms.
+000 adversarial involving or characterized by conflict or opposition. ex: the adversal nature of the two-party system
+000 proliferation rapid increase in the number or amount of something, ex: a continuing threat of nuclear proliferation.
+000 antagonistic
+000 legion (li-ze'n) great in number, ex: her fans are legion
+000 penchant (pon-shon) a strong or habitual liking or tendancy to do something. ex: he has a penchant for adopting stray dogs.
+000 canonisation canonization is the act by which a Christian church declares that a person who has died was a saint.
+000 prolific present in large numbers or quantities; plentiful ex: mahogany was once prolific in the tropical forests
+000 foliage plants leave collectively ex: healthy green foliage.
+000 inexorable (iu'n-exa-rible) impossible to stop or prevent. ex: the seemingly inexorable march of new technology.
+000 pervasiveness (per-va-sive-ness) the quality of spreading widely or being present throughout an area or a a group of people ex: the pervasiveness of violence on TV
+000 burgeon (bar-gin) begin to grow or increase rapidly; flourish. ex: manufacturers are keen to cash in on the burgeoning demand.
+000 empirical (em-pari-kal) based on, concerned with, or verifiable by observation or experience rather than theory or pure logic. ex: the provided considerable epirical evidence to support thein argument,
+000 prosaic lacking imaginativeness or originality. ex: prosaic language can't convey the experience.
+000 engulf sweep over, so as the surround or cover it completely, ex: the cafe was engulfed in flames.
+000 intricate (inti-kete')very complicated or detailed. ex: an intricate network or canals.
+000 consonance agreement or compatibility between opinions or actions. ex: consonance betweeen conservation measures and existing agricultural practice.
+000 tract an area of land, typically large one. ex: large tract of natural forest.
+000 meagre (me-ge-r') lacking in quantity or quality. ex: they were forced to supplement their meagre earnings.
+000 cul-de-sac (kal.de.sak) a street or passage closed at one enf. a route or course leading nowhere, ex: was the new post a career cul-da-sac?
+000 stalwarts (stol'-wart) loyal, reliable, and hard-working. ex: "he remained a stalwart supporter of the cause"
+000 lackadaisical (lack-a-dais-i-kal) lacking enthusiasm and determination, carelessly lazy. ex: the woman short, slight and lackadaisical, though rather pretty
+000 elusive (i'-lusive) difficult to find, catch, or achieve. ex: success will become ever more elusive.
+000 dispirited (De-spirit-ed) having lost enthusiasm and hope, dishearted, ex: "she was determined to appear unworried in front of her dispirited family"
+000 enigmatic difficult to interpret or understand; mysterious.ex: "he took the money with an enigmatic smile"
+000 hitherto (hitha-too) (ab tak) until now or until the point in time under discussion.  ex: hitherto part of French West Africa, Benin achieved independence in 1960
+000 cohort a group of people woth a shared characteristic... supporter.. ex: young Jack arrived with three of his cohorts.
+000 whipsaw a saw with a narrow blade and a handle at both ends, used typically by two people.
+000 septuagenarians (sept-chu-ae-generian) a person who is between 70 and 79 years old.
+000 remnants remains...a part or quantity that is left after the greater part has been used, removed, or destroyed. ex: "the bogs are an endangered remnant of a primeval landscape"
+000 paraphernalia (para-fer'-na-lia) miscellaneous articles or equipments for a particular activity. ex: Drills, saw and other paraphernalia necessary for home improvemeny. 
+000 twigs branches of trees
+000 bestow to give (an honor, right or gift) ex: it was a greatest award bestowed upon man.
+000 shenanigans (shi-na-ni-gans) secret or dishonest activity or manoeuvring (dhoka-dhari), ex:the chairman was accused of financial shenanigans.
+000 fudged (fadz)  (hera-feri) present or deal with something in a vauge or inadequate way, especially to conceal the truth or mislead. ex: the authorities fudged the issue.
+000 obfuscate (ob-fas-keit) make obscure, out of scope of understanding. difficult to understand. the spelling changes will deform some familiar words and obfuscate their etymological origins.
+000 evocative bringing strong images, memories or feeling to mind. ex: powerfully evocative lyrics. 
+000 curiouser (comparitve degree of curious)
+000 rogue evil (dusht), a dishonest or unprincipaled man. ex: you are a rouge and an embezzlar.
+000 embezzlar a criminal who take property belonging to someone else with intention of keeping it or selling it.
+000 Purported (pur-port-ed) apprearing or stated to be true, though not necessarily so, ex: the purported marriage was void.
+000 Substantiate (subs-ten-shiate) provide evidence to support or prove the truth of.. ex: they had found nothing to substantiate the allegations,
+000 Mutilate inflict a serious damage, ex: most of the prisoners had been mutilated.
+000 inflict impose somthing bad  or cruel. ex: she is wrong to inflict her belief on everyone else.
+000 Snubbed insult ex: Mohd. Bin Salim snubbed (sn-a'-b-ed) imran khan over his private jet
+000 Disembowel (dis-em-baw-el) cut open and remove the internal organs of. ex: the dinosaur used to claw to disembowel prey.
+000 Alienated (alien-a-ted) make (someone) feel isolated or estranged. ex: the association does not wish to alienate its members.
+000 Interlocution (inter-lo-cu-tion) conversation or dialouge or discussion.
+000 sedition a speech which provoke people to rebel against the authority or monarch
+000 Okays
+000 monarch A monarch is a sovereign head of state in a monarchy. 
+000 Mollycoddle (molly-codd-el) pamper, treat someone in an overprotective way. ex: I found school very difficult, and realized I'd been mollycoddled at home.
+000 Wring sqeeze and twist.. extract. ex: she wrung the cloths out in the sink.
+000 Foray (for-ei) raid, sudden attack, strike. ex: the garrison made a foray against Richard's camp.
+000 Jilting reject instantly ex: jilting a lover is not a crime.
+000 Errands (er-e'-nd) a short journey taken in order to deliver or collect something Ex : weekend errand? Shopping plans -ola
+000 Strained (strain-ed) showing signs of nervous tension or tiredness.ex: creating positive atmospheric in bilateral ties strained over the Kashmir issue.
+000 Cremation (kri'a-mation) the disposal of a dead person's body by burning it to ashes, typically after a funeral ceremony. Ex: stillborn girl burried 2 ft deep near cremation ground, saved.
+000 Kin relative, relations. Ex infant discovered by kin who went to bury their stillborn baby.
+000 guillotine (gi-li-teen) executed
+000 Plogging combination of jogging and collecting litter. Ex PM goes plogging on Mamallapuram beach.
+000 caricature (keri-ke-chah) a picture, description, or imitation of a person in which certain striking characteristics are exaggerated in order to create a comic or grotesque effect.ex : "a caricature of the patriarchy", Argentine feminists remake tango.
+000 Deplorable (dip-lo-rable) completely unacceptable. Ex every crime is deplorable.
+000 Conceded accept/get bangladesh conceded 18 extra run while India conceded 26 extra runs.
+000 incensed make very angry ex: British Indian group incensed at Corbyns reply
+000 Ire anger ex: Turkey Malaysia facing India's ire for supporting JnK
+000 Perilously (peri-las-ly) in a way that is full of danger or risk. Ex: as a youth jumped off his two wheeler perilously close to the rails to escape unscathed in the nick of time
+000 unscathed (uhn-skei-th-d') without suffering any injury ex: as a youth jumped off his two wheeler perilously close to the rails to escape unscathed in the nick of time
+000 Nick a small cut or notch ex: as a youth jumped off his two wheeler perilously close to the rails to escape unscathed in the nick of time
+000 Miscreant (mi-sk-rein-t) a person who has done something wrong.. miscreants- many person... Ex: one dead as miscreants attack assam milkmen colony
+000 Superfluous unnecessary. Ex: the purchaser should avoid asking for superfluous information"
+000 Proponents a person who advocates a theory, proposal, or course of action. Ex: Which argumenet propunents the theory of adding chlorine.
+000 Psephology (sey'-pholo-ji) statistical study of election.
+000 Entail (enta- ayi-l) involve ex: a situation which entails considerable risks
+000 bolstered provided with padded support ex: sales need to be artificially bolstered throughout the year.
+000 Mediocre/mediocrity average or not very good. Ex: the result is mediocrity.
+000 unveil show for the first time ex: govt to merge BSNL,MTNL. Unveils 68.7 cr package.
+000 untoward unexpected and inappropriate or inconvenient. Ex: no untoward incident involving any indian national has been reported yet from turkey
+000 Hoist raise (something) by means of ropes and pulleys.. ex: hoist the sales
+000 Dons university teacher or senior member. Ex : Ganguly dons the captions hat
+000 Knave a jack (in cards)
+000 volley bullet discharge in quick succession ex: fire a volly
+000 Dystopia an imagined state or society in which there is great suffering or injustice, typically one that is totalitarian or post-apocalyptic. Ex: Dystopia in classroom
+000 Parley (par-li) negotiation ex: Bjp, Sena remain divided in parleys with guv Koshyari
+000 Armistice An armistice is a formal agreement of warring parties to stop fighting ex: Armistice is signed. Germany surrenders.
+000 Warring (vaw-ring) opposite party; in conflict with each other ex: warring parties
+000 Riddance (rid-uhns) the action of getting rid of a troublesome or unwanted person or thing. Ex: Trump No longer a New Yorker. guv says 'good riddance'
+000 Bicker argue about petty or trivial matters. Ex: Politicians Bicker as Delhi Chokes
+000 reminiscent (reh-mi-ni-scent) tending to remind of something ex: Cops vs Lawyers: Why Delhi Police constables reminiscent Kiran Bedi during protest
+000 Deterrent a thing that discourage or is intend to discourage somthing from doing something ex: SC raps, no deterrent
+000 Flout openly disregard ex: 80 Moradabad coal mine siezed, flouting pollution norms.
